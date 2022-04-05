@@ -20,7 +20,6 @@
   "homepage": "https://github.com/vkvinay580/heroku#readme",
   "dependencies": {
     "core-js": "^3.21.1",
-    "nodemon": "^2.0.15",
     "socket.io": "^4.4.1",
     "socket.io-client": "^4.4.1",
     "vue": "^3.2.31"
