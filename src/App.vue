@@ -32,7 +32,7 @@
 
 <script>
 import io from 'socket.io-client'
-const socket = io("http://localhost:3000")
+const socket = io("https://tictactoevk.herokuapp.com/")
 export default {
   name: 'App',
   components: {
